@@ -48,6 +48,7 @@
 | [Retell AI](https://retellai.com) | Human-like voice agents. Multi-language, telephony integration built-in. | Usage-based |
 | [ElevenLabs](https://elevenlabs.io) | Industry benchmark for voice AI. Conv AI 2.0 — RAG, multimodal, batch calling. 75ms latency. HIPAA. | Free / $5+/mo |
 | [Synthflow](https://synthflow.ai) | No-code voice agents for SMBs. Pre-built templates, easy deployment. | From $29/mo |
+| [Hermes](https://www.buildwithhermes.com) | Operating platform for AI voice agencies. White-label voice agents with built-in CRM, campaign orchestration, and usage billing, all under the agency's own brand. | From $149/mo |
 | [Voiceflow](https://voiceflow.com) | No-code voice and chat builder. Drag-and-drop conversation design. | Free / $50+/mo |
 | [PolyAI](https://poly.ai) | Enterprise voice agents. Natural multi-turn conversation. Hospitality and retail focus. | Enterprise |
 | [HeyGen](https://heygen.com) | AI avatars with voice. Real-time interactive streaming. | From $24/mo |
