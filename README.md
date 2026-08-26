@@ -53,6 +53,7 @@
 | [HeyGen](https://heygen.com) | AI avatars with voice. Real-time interactive streaming. | From $24/mo |
 | [Deepgram](https://deepgram.com) | STT and TTS APIs. Sub-300ms latency. Nova-3 model for real-time. | Usage-based |
 | [AssemblyAI](https://assemblyai.com) | STT with diarization, sentiment analysis, entity detection, summarization. | Usage-based |
+| [Workforce Wave](https://www.workforcewave.com/) | AI voice agents and virtual receptionist platform for SMBs. | Usage-based |
 
 ## 💬 Messaging Platforms
 
