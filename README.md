@@ -81,6 +81,7 @@
 | [Coze](https://coze.com) | ByteDance's agent builder. Deploy to Telegram, Discord, Slack, web widgets. Visual workflow builder. | Free / Paid |
 | [Botpress](https://botpress.com) | Open-source conversational AI platform. Deploy to WhatsApp, Telegram, Messenger, web. Visual flow builder. | Free / Cloud |
 | [Rasa](https://github.com/RasaHQ/rasa) | OSS conversational AI framework. NLU-based. Deploy anywhere. Enterprise CALM add-on for generative. | Free (OSS) |
+| [Kortix](https://agentsinslack.com) | Open-source AI Operating System that runs agents in Slack and Microsoft Teams: the agent replies in the thread, its tool calls go through Allow/Ask/Block approval, and its config, skills and connectors live in a git repo the company owns. | Free (self-host) / Cloud |
 
 ## 🔊 Open-Source Voice & Audio
 
