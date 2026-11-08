@@ -68,6 +68,7 @@
 | [Facebook Messenger](https://developers.facebook.com/docs/messenger-platform) | Bot API for Messenger. Templates, quick replies, persistent menus. | Free |
 | [iMessage (Messages API)](https://developer.apple.com/messages/) | Apple Messages for Business. Rich links, interactive messages. | Apple Developer |
 | [Matrix](https://matrix.org) | Open federated protocol. Bridges to other platforms. Element clients. | Free (self-hosted) |
+| [Wagent](https://wagent.sh) | Hosted WhatsApp MCP server for AI agents. Per-chat Hidden/Read/Draft/Send permissions, owner approval before sends, activity log. Streamable HTTP with OAuth; works with Claude, ChatGPT, n8n and any MCP client. | $49/mo per number, 5-day free trial |
 
 ## 🌐 Multi-Channel Agent Hubs
 
