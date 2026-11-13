@@ -60,6 +60,8 @@
 
 | Platform | Description | Pricing |
 |----------|-------------|---------|
+
+| [API-Supp](https://api-supp.com) | WhatsApp REST API and OAuth MCP for existing numbers via QR (unofficial bridge, not Meta's Cloud API). Multi-number cloud MCP for text and chat context; separate local MCP adds files, voice notes, media downloads; signed webhooks. | Paid, $7.50/number/month |
 | [WhatsApp Cloud API](https://developers.facebook.com/docs/whatsapp/cloud-api) | Meta's official API. Send/receive messages, templates, media. Free tier available. | Free / Pay-per-conversation |
 | [Telegram Bot API](https://core.telegram.org/bots/api) | Free, feature-rich bot API. Inline queries, keyboards, payments, webhooks. | Free |
 | [Discord API](https://discord.com/developers/docs/intro) | Bot and webhook APIs. Slash commands, message components, voice channels. | Free |
