@@ -67,6 +67,7 @@
 | [Signal](https://signal.org) | End-to-end encrypted messaging. Signal-CLI for automation. | Free |
 | [Facebook Messenger](https://developers.facebook.com/docs/messenger-platform) | Bot API for Messenger. Templates, quick replies, persistent menus. | Free |
 | [iMessage (Messages API)](https://developer.apple.com/messages/) | Apple Messages for Business. Rich links, interactive messages. | Apple Developer |
+| [Photon](https://photon.codes) | iMessage API for AI agents. Send and receive iMessages on a hosted line with no Mac, with RCS and SMS fallback. WhatsApp Business, Telegram and Slack through the same TypeScript SDK ([spectrum-ts](https://github.com/photon-hq/spectrum-ts)). | Free / from $25/mo |
 | [Matrix](https://matrix.org) | Open federated protocol. Bridges to other platforms. Element clients. | Free (self-hosted) |
 
 ## 🌐 Multi-Channel Agent Hubs
