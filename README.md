@@ -67,6 +67,7 @@
 | [Signal](https://signal.org) | End-to-end encrypted messaging. Signal-CLI for automation. | Free |
 | [Facebook Messenger](https://developers.facebook.com/docs/messenger-platform) | Bot API for Messenger. Templates, quick replies, persistent menus. | Free |
 | [iMessage (Messages API)](https://developer.apple.com/messages/) | Apple Messages for Business. Rich links, interactive messages. | Apple Developer |
+| [Message.com](https://www.message.com/developers/integrations/mcp) | Hosted MCP connection for business conversations, with separate iMessage read and send permissions. | Paid iMessage subscription |
 | [Matrix](https://matrix.org) | Open federated protocol. Bridges to other platforms. Element clients. | Free (self-hosted) |
 
 ## 🌐 Multi-Channel Agent Hubs
